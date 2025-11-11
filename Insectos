@@ -1,0 +1,11 @@
+---
+title: "Ejemplo en GitHub y Colab"
+output: html_document
+---
+
+## Introducción
+
+Esto es un archivo RMarkdown simple.
+
+```{r}
+summary(cars)
