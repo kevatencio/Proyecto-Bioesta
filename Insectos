@@ -8,4 +8,4 @@ output: html_document
 Esto es un archivo RMarkdown simple.
 
 ```{r}
-summary(cars)
+summary(cars
